@@ -1,6 +1,6 @@
 # Conda repo for Linear Modeling in R 
 
-[![Binder](http://mybinder.org/badge_logo.svg)](https://hub.ovh2.mybinder.org/v2/gh/ZianneO/BSGP7030-LMRScript/HEAD)]
+[![Binder](http://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ZianneO/BSGP7030-LMRScript/HEAD)]
 (https://mybinder.org/v2/gh/ZianneO/BSGP7030-LMRScript/HEAD)
 
 A Binder-compatible repo with an `environment.yml` file.
