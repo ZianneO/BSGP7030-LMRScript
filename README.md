@@ -1,14 +1,13 @@
 # Conda repo for Linear Modeling in R 
 
-[![Binder](http://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ZianneO/BSGP-LM/HEAD)
-
-(https://mybinder.org/v2/gh/ZianneO/BSGP-LM/HEAD)
+[![Binder](http://mybinder.org/badge_logo.svg)](https://hub.ovh2.mybinder.org/user/zianneo-bsgp-lm-ktyueqvz/lab)]
+(https://mybinder.org/user/zianneo-bsgp-lm-ktyueqvz/lab)
 
 A Binder-compatible repo with an `environment.yml` file.
 
 Access this Binder by clicking the blue badge above or at the following URL:
 
-((https://mybinder.org/v2/gh/ZianneO/BSGP-LM/HEAD))
+((https://mybinder.org/user/zianneo-bsgp-lm-ktyueqvz/lab))
 
 ## Notes
 The `environment.yml` file should list all Python libraries on which your notebooks
