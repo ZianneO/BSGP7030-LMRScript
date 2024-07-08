@@ -1,4 +1,4 @@
-# Conda repo for Linear Modeling in R 
+# Conda repo for Linear Modeling Script in R 
 
 [![Binder](http://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ZianneO/BSGP7030-LMRScript/HEAD)]
 (https://mybinder.org/v2/gh/ZianneO/BSGP7030-LMRScript/HEAD)
