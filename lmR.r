@@ -21,6 +21,7 @@ p_orig <- ggplot2::ggplot(df, aes(x = x, y = y)) +
   ggplot2::labs(title = "Scatter Plot",
                 x = "X Axis",
                 y = "Y Axis")
+
 # Image of Scatterplot
     
 ggsave("r_orig.png", plot = p_orig)    
